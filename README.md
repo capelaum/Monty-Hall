@@ -4,25 +4,26 @@
     <a href="https://en.wikipedia.org/wiki/Monty_Hall_problem" target="_blank">
       Monty Hall Problem
     </a>
+    in the pt-br language
   </p>
   <img src=".github/Capa.png" alt="Capa Monty Hall">
 </div>
 
-## Executando
+## Running
 
-Na pasta raiz do projeto, execute os seguintes comandos
+In the root directory of the project
 
 ```bash
-# Instale as dependências
+# install dependencies
 yarn
 
-# rode aplicação em modo de desenvolvimento
+# run application as development mode
 yarn dev
 ```
 
-### Créditos
+### Credits
 
-Feito no Curso da [Cod3r](cod3r_next) de React e Next.js
+Feito no Curso da [Cod3r][cod3r_next] de React e Next.js
 
 [monty_hall]: https://en.wikipedia.org/wiki/Monty_Hall_problem
 [cod3r_next]: https://www.cod3r.com.br/courses/nextjs
